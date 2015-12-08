@@ -1,5 +1,14 @@
 # hello-chestnut
 
+## About
+
+Quickly testing out websockets (client and server) over clojure libraries.
+
+I was curious about end-to-end archetecture of websockets using om.
+
+Many of these examples were out from chestnut and sente's own examples folder
+
+https://github.com/ptaoussanis/sente
 
 ## Development
 
